@@ -1,5 +1,6 @@
 # VoIP OTP — FastAPI microservice for OTP authentication via SMS and voice calls using Twilio and Redis
 
+[![wakatime](https://wakatime.com/badge/user/018b251f-0e34-47a2-be9d-82c5e052e073/project/dd33194c-697b-4583-9fdb-d0a78a4e3aed.svg)](https://wakatime.com/badge/user/018b251f-0e34-47a2-be9d-82c5e052e073/project/dd33194c-697b-4583-9fdb-d0a78a4e3aed)
 [![CI](https://github.com/AlexPT2k22/voip-otp/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexPT2k22/voip-otp/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
