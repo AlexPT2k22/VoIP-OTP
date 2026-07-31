@@ -19,6 +19,7 @@ async def init_redis():
     logger.info("Connected to Redis")
 
 async def close_redis():
+    global _redis_pool
     if _redis_pool is not None:
         await _redis_pool.disconnect()
         _redis_pool = None
